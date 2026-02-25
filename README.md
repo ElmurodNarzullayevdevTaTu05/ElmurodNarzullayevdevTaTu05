@@ -6,7 +6,7 @@
 
 
 - 🔭 Self Employed
-- 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
+- 💬 Ask me about **Python, Django,DRF,FastApi,WebSocket,Devops,nginx,docker, Sql, PostgreSQL, Telegram Bot**
 - 📫 How to reach me [**elmurodnarzullayev8@gmail.com**](mailto:elmurodnarzullayev8@gmail.com)
 
 
